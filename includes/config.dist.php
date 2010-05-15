@@ -13,7 +13,7 @@ $GLOBALS['upload_path'] = $GLOBALS['abs_path'] . "/music/";
 
 // MySQL Information
 $GLOBALS['mysql_server'] = "localhost";
-$GLOBALS['db_name'] = "grammafone";
+$GLOBALS['db_name'] = "gramophone";
 $GLOBALS['db_user'] = "";
 $GLOBALS['db_pw'] = "";
 
